@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+.home {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .hero {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+  }
+  
+  .footer {
+    background-color: #f8f9fa;
+  }
+  
+  .sign-up-home{
+      font-family: "Wittgenstein", serif;
+      color: #0B9ABD;
+  }
+
+  .sign-up-btn-home{
+    background-color: #0B9ABD;
+    font-family: "Wittgenstein", serif;
+    border-radius: 50px;
+    width: 200px;
+  }
